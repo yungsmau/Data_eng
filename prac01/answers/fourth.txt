@@ -1,0 +1,3 @@
+Среднее арифметическое price: 6587.9708737864075
+Max quantity: 996
+Min quantity: 1
