@@ -1,7 +1,7 @@
 import math
 
-with open("85/second_task.txt", "r") as input_file, open(
-    "answers/result_second_task.txt", "w"
+with open("02/second_task.txt", "r") as input_file, open(
+    "02/result_second_task.txt", "w"
 ) as output_file:
     column_values = []
 

@@ -26,8 +26,8 @@ def replace_na_with_mean(numbers):
     return result
 
 
-with open("85/third_task.txt", "r") as input_file, open(
-    "answers/third.txt", "w"
+with open("03/third_task.txt", "r") as input_file, open(
+    "03/third.txt", "w"
 ) as output_file:
     for line in input_file:
         numbers = line.strip().split()

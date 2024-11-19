@@ -1,7 +1,7 @@
 import re
 from collections import Counter
 
-with open("85/first_task.txt", "r") as file:
+with open("01/first_task.txt", "r") as file:
     text = file.read()
 
 text = re.sub(r"\d+", "", text)
@@ -19,7 +19,7 @@ word_count = Counter(words)
 
 sorted_word_counts = sorted(word_count.items(), key=lambda item: item[1], reverse=True)
 
-with open("answers/words_first_task.txt", "w") as output_file:
+with open("01/words_first_task.txt", "w") as output_file:
     for word, freq in sorted_word_counts:
         output_file.write(f"{word}:{freq}\n")
     output_file.write(f"\nКоличество гласных букв: {total_vowels}\n")
