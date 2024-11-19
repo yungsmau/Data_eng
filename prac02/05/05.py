@@ -3,7 +3,7 @@ import json
 import msgpack
 import os
 
-df = pd.read_csv("85/test.csv")
+df = pd.read_csv("05/test.csv")
 
 selected_columns = [
     "tBodyAcc-mean()-X",
@@ -29,23 +29,23 @@ for column in df.columns:
 
 results["numeric_stats"] = numeric_stats
 
-with open("answers/data_05.json", "w") as f:
+with open("05/data_05.json", "w") as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
 
-df.to_csv("answers/data_selected_05.csv")
-df.to_json("answers/data_selected_05.json", orient="records", lines=True)
-df.to_pickle("answers/data_selected_05.pkl")
+df.to_csv("05/data_selected_05.csv")
+df.to_json("05/data_selected_05.json", orient="records", lines=True)
+df.to_pickle("05/data_selected_05.pkl")
 
-with open("answers/data_selected_05.msgpack", "wb") as f:
+with open("05/data_selected_05.msgpack", "wb") as f:
     packed = msgpack.packb(df.to_dict(orient="records"), use_bin_type=True)
     f.write(packed)
 
 
 file_sizes = {
-    "CSV": os.path.getsize("answers/data_selected_05.csv"),
-    "JSON": os.path.getsize("answers/data_selected_05.json"),
-    "MSGpack": os.path.getsize("answers/data_selected_05.msgpack"),
-    "PKL": os.path.getsize("answers/data_selected_05.pkl"),
+    "CSV": os.path.getsize("05/data_selected_05.csv"),
+    "JSON": os.path.getsize("05/data_selected_05.json"),
+    "MSGpack": os.path.getsize("05/data_selected_05.msgpack"),
+    "PKL": os.path.getsize("05/data_selected_05.pkl"),
 }
 
 print("Размеры файлов: ")

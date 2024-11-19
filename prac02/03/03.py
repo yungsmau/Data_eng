@@ -4,7 +4,7 @@ import msgpack
 import os
 
 
-with open("85/third_task.json", "r", encoding="utf-8") as json_file:
+with open("03/third_task.json", "r", encoding="utf-8") as json_file:
     data = json.load(json_file)
 
 df = pd.DataFrame(data)
@@ -16,15 +16,15 @@ aggregated_data.rename(
 
 aggregated_dict = aggregated_data.to_dict(orient="records")
 
-with open("answers/aggregated_03.json", "w", encoding="utf-8") as f:
+with open("03/aggregated_03.json", "w", encoding="utf-8") as f:
     json.dump(aggregated_dict, f, ensure_ascii=False, indent=4)
 
-with open("answers/aggregated_data_03.msgpack", "wb") as f:
+with open("03/aggregated_data_03.msgpack", "wb") as f:
     packed_data = msgpack.packb(aggregated_dict, use_bin_type=True)
     f.write(packed_data)
 
-json_size = os.path.getsize("answers/aggregated_03.json")
-msgpack_size = os.path.getsize("answers/aggregated_data_03.msgpack")
+json_size = os.path.getsize("03/aggregated_03.json")
+msgpack_size = os.path.getsize("03/aggregated_data_03.msgpack")
 
 print(f"Размер JSON файла: {json_size} байт")
 print(f"Размер Msgpack файла: {msgpack_size} байт")

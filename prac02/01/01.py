@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-matrix = np.load("85/first_task.npy")
+matrix = np.load("01/first_task.npy")
 
 total_sum = np.sum(matrix)
 total_avg = np.mean(matrix)
@@ -26,10 +26,10 @@ results = {
     "min": min_value,
 }
 
-pd.Series(results).to_json("answers/matrix_results_01.json", indent=4)
+pd.Series(results).to_json("01/matrix_results_01.json", indent=4)
 
 normalize_matix = (matrix - min_value) / (max_value - min_value)
-np.save("answers/normalized_matrix_01.npy", normalize_matix)
+np.save("01/normalized_matrix_01.npy", normalize_matix)
 
 print(
     "Результаты сохранены в martix_results_01.json, нормализованная матрица - в normalized_matrix_01.npy"
