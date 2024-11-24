@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Фомальгаут 8256",
+        "constellation": "Близнецы",
+        "spectral-class": "N7B",
+        "radius": 749063374,
+        "rotation": 6.69,
+        "age": 3.46,
+        "distance": 2187262.9,
+        "absolute-magnitude": 4.3
+    },
+    {
+        "name": "Полярная звезда 8567",
+        "constellation": "Близнецы",
+        "spectral-class": "I4R",
+        "radius": 445961633,
+        "rotation": 840.76,
+        "age": 4.03,
+        "distance": 7717436.48,
+        "absolute-magnitude": 8.99
+    },
+    {
+        "name": "Солнце 3829",
+        "constellation": "Близнецы",
+        "spectral-class": "O9P",
+        "radius": 919837686,
+        "rotation": 250.96,
+        "age": 0.21,
+        "distance": 2368705.07,
+        "absolute-magnitude": 4.33
+    },
+    {
+        "name": "Канопус 2464",
+        "constellation": "Близнецы",
+        "spectral-class": "Q3G",
+        "radius": 624785269,
+        "rotation": 454.73,
+        "age": 4.51,
+        "distance": 3366657.11,
+        "absolute-magnitude": 4.57
+    },
+    {
+        "name": "Вега 8011",
+        "constellation": "Близнецы",
+        "spectral-class": "P8M",
+        "radius": 573611084,
+        "rotation": 307.86,
+        "age": 0.42,
+        "distance": 7580951.73,
+        "absolute-magnitude": 6.12
+    },
+    {
+        "name": "Альфа Центавра 2322",
+        "constellation": "Близнецы",
+        "spectral-class": "U4S",
+        "radius": 208165912,
+        "rotation": 297.17,
+        "age": 0.29,
+        "distance": 5443930.01,
+        "absolute-magnitude": 4.06
+    },
+    {
+        "name": "Солнце 8246",
+        "constellation": "Близнецы",
+        "spectral-class": "I2G",
+        "radius": 699985774,
+        "rotation": 277.3,
+        "age": 3.51,
+        "distance": 8629168.56,
+        "absolute-magnitude": 2.31
+    },
+    {
+        "name": "Канопус 4433",
+        "constellation": "Близнецы",
+        "spectral-class": "A5R",
+        "radius": 643930491,
+        "rotation": 795.31,
+        "age": 4.38,
+        "distance": 3120348.34,
+        "absolute-magnitude": 3.11
+    },
+    {
+        "name": "Солнце 5526",
+        "constellation": "Близнецы",
+        "spectral-class": "H9F",
+        "radius": 171174474,
+        "rotation": 598.56,
+        "age": 3.48,
+        "distance": 3811666.89,
+        "absolute-magnitude": 7.6
+    }
+]

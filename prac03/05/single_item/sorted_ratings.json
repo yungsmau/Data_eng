@@ -1,0 +1,122 @@
+[
+    {
+        "book_title": "Мертвые души",
+        "book_author": "Николай Гоголь",
+        "book_cover": "https://s1.livelib.ru/boocover/1000012305/200x305/e08f/Nikolaj_Gogol__Mertvye_dushi.jpg",
+        "rating": 4.0,
+        "read": 56589,
+        "wish_to_read": 10354,
+        "reviews": 531,
+        "liked_the_book": 29755,
+        "neutral_to_the_book": 8678,
+        "disliked_book": 2686
+    },
+    {
+        "book_title": "Горе от ума",
+        "book_author": "Александр Грибоедов",
+        "book_cover": "https://s1.livelib.ru/boocover/1000000895/200x305/98a1/Aleksandr_Griboedov__Gore_ot_uma.jpg",
+        "rating": 4.2,
+        "read": 41228,
+        "wish_to_read": 6940,
+        "reviews": 339,
+        "liked_the_book": 24308,
+        "neutral_to_the_book": 4875,
+        "disliked_book": 972
+    },
+    {
+        "book_title": "Отцы и дети. Накануне (сборник)",
+        "book_author": "И. С. Тургенев",
+        "book_cover": "https://s1.livelib.ru/boocover/1000456756/200x305/33e8/I._S._Turgenev__Ottsy_i_deti._Nakanune_sbornik.jpg",
+        "rating": 4.2,
+        "read": 2870,
+        "wish_to_read": 565,
+        "reviews": 792,
+        "liked_the_book": 1826,
+        "neutral_to_the_book": 330,
+        "disliked_book": 67
+    },
+    {
+        "book_title": "Война и мир",
+        "book_author": "Лев Толстой",
+        "book_cover": "https://s1.livelib.ru/boocover/1000256740/200x305/2093/Lev_Tolstoj__Vojna_i_mir.jpg",
+        "rating": 4.2,
+        "read": 6857,
+        "wish_to_read": 1236,
+        "reviews": 325,
+        "liked_the_book": 4261,
+        "neutral_to_the_book": 784,
+        "disliked_book": 217
+    },
+    {
+        "book_title": "Герой нашего времени",
+        "book_author": "М. Ю. Лермонтов",
+        "book_cover": "https://s1.livelib.ru/boocover/1000476182/200x305/0594/M._Yu._Lermontov__Geroj_nashego_vremeni.jpg",
+        "rating": 4.3,
+        "read": 67015,
+        "wish_to_read": 10556,
+        "reviews": 661,
+        "liked_the_book": 43418,
+        "neutral_to_the_book": 6260,
+        "disliked_book": 1273
+    },
+    {
+        "book_title": "Вечера на хуторе близ Диканьки (сборник)",
+        "book_author": "Николай Гоголь",
+        "book_cover": "https://s1.livelib.ru/boocover/1000473797/200x305/a040/Nikolaj_Gogol__Vechera_na_hutore_bliz_Dikanki_sbornik.jpg",
+        "rating": 4.3,
+        "read": 20838,
+        "wish_to_read": 4020,
+        "reviews": 449,
+        "liked_the_book": 13103,
+        "neutral_to_the_book": 2209,
+        "disliked_book": 529
+    },
+    {
+        "book_title": "Евгений Онегин",
+        "book_author": "Александр Пушкин",
+        "book_cover": "https://s1.livelib.ru/boocover/1000027561/200x305/5d8d/Aleksandr_Pushkin__Evgenij_Onegin.jpg",
+        "rating": 4.3,
+        "read": 65158,
+        "wish_to_read": 7755,
+        "reviews": 622,
+        "liked_the_book": 40476,
+        "neutral_to_the_book": 6561,
+        "disliked_book": 1242
+    },
+    {
+        "book_title": "Дубровский. Капитанская дочка (сборник)",
+        "book_author": "Александр Пушкин",
+        "book_cover": "https://s1.livelib.ru/boocover/1000428956/200x305/d0f2/Aleksandr_Pushkin__Dubrovskij._Kapitanskaya_dochka_sbornik.jpg",
+        "rating": 4.3,
+        "read": 2039,
+        "wish_to_read": 334,
+        "reviews": 578,
+        "liked_the_book": 1271,
+        "neutral_to_the_book": 171,
+        "disliked_book": 28
+    },
+    {
+        "book_title": "Преступление и наказание",
+        "book_author": "Фёдор Достоевский",
+        "book_cover": "https://s1.livelib.ru/boocover/1000396456/200x305/001f/Fjodor_Dostoevskij__Prestuplenie_i_nakazanie.jpg",
+        "rating": 4.4,
+        "read": 101184,
+        "wish_to_read": 20815,
+        "reviews": 951,
+        "liked_the_book": 67215,
+        "neutral_to_the_book": 7846,
+        "disliked_book": 2263
+    },
+    {
+        "book_title": "Мастер и Маргарита",
+        "book_author": "Михаил Булгаков",
+        "book_cover": "https://s1.livelib.ru/boocover/1000261483/200x305/c94f/Mihail_Bulgakov__Master_i_Margarita.jpg",
+        "rating": 4.5,
+        "read": 125109,
+        "wish_to_read": 21159,
+        "reviews": 1363,
+        "liked_the_book": 91172,
+        "neutral_to_the_book": 7421,
+        "disliked_book": 2464
+    }
+]

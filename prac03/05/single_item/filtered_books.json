@@ -1,0 +1,50 @@
+[
+    {
+        "book_title": "Преступление и наказание",
+        "book_author": "Фёдор Достоевский",
+        "book_cover": "https://s1.livelib.ru/boocover/1000396456/200x305/001f/Fjodor_Dostoevskij__Prestuplenie_i_nakazanie.jpg",
+        "rating": 4.4,
+        "read": 101184,
+        "wish_to_read": 20815,
+        "reviews": 951,
+        "liked_the_book": 67215,
+        "neutral_to_the_book": 7846,
+        "disliked_book": 2263
+    },
+    {
+        "book_title": "Герой нашего времени",
+        "book_author": "М. Ю. Лермонтов",
+        "book_cover": "https://s1.livelib.ru/boocover/1000476182/200x305/0594/M._Yu._Lermontov__Geroj_nashego_vremeni.jpg",
+        "rating": 4.3,
+        "read": 67015,
+        "wish_to_read": 10556,
+        "reviews": 661,
+        "liked_the_book": 43418,
+        "neutral_to_the_book": 6260,
+        "disliked_book": 1273
+    },
+    {
+        "book_title": "Евгений Онегин",
+        "book_author": "Александр Пушкин",
+        "book_cover": "https://s1.livelib.ru/boocover/1000027561/200x305/5d8d/Aleksandr_Pushkin__Evgenij_Onegin.jpg",
+        "rating": 4.3,
+        "read": 65158,
+        "wish_to_read": 7755,
+        "reviews": 622,
+        "liked_the_book": 40476,
+        "neutral_to_the_book": 6561,
+        "disliked_book": 1242
+    },
+    {
+        "book_title": "Мастер и Маргарита",
+        "book_author": "Михаил Булгаков",
+        "book_cover": "https://s1.livelib.ru/boocover/1000261483/200x305/c94f/Mihail_Bulgakov__Master_i_Margarita.jpg",
+        "rating": 4.5,
+        "read": 125109,
+        "wish_to_read": 21159,
+        "reviews": 1363,
+        "liked_the_book": 91172,
+        "neutral_to_the_book": 7421,
+        "disliked_book": 2464
+    }
+]
