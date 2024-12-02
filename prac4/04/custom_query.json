@@ -1,0 +1,65 @@
+[
+    {
+        "name":"attractive boysenberry",
+        "category":"fruit",
+        "quantity":1360,
+        "price":67.6116,
+        "isAvailable":1
+    },
+    {
+        "name":"tasteful banana",
+        "category":"fruit",
+        "quantity":1355,
+        "price":5.8,
+        "isAvailable":1
+    },
+    {
+        "name":"magnificent apple",
+        "category":"fruit",
+        "quantity":1280,
+        "price":22.898952,
+        "isAvailable":1
+    },
+    {
+        "name":"glamorous pedicure set",
+        "category":"cosmetics",
+        "quantity":1262,
+        "price":38.27821536,
+        "isAvailable":1
+    },
+    {
+        "name":"amazing papaya",
+        "category":"fruit",
+        "quantity":1231,
+        "price":42.5687,
+        "isAvailable":1
+    },
+    {
+        "name":"refined apricot",
+        "category":"fruit",
+        "quantity":1161,
+        "price":12.42,
+        "isAvailable":1
+    },
+    {
+        "name":"superb kiwifruit",
+        "category":"fruit",
+        "quantity":1157,
+        "price":8.0,
+        "isAvailable":1
+    },
+    {
+        "name":"amazing kiwifruit",
+        "category":"fruit",
+        "quantity":1130,
+        "price":44.3955,
+        "isAvailable":1
+    },
+    {
+        "name":"gorgeous lotion",
+        "category":"cosmetics",
+        "quantity":1005,
+        "price":24.97,
+        "isAvailable":1
+    }
+]

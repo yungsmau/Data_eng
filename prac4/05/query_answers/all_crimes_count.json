@@ -1,0 +1,58 @@
+[
+    {
+        "crime_type":"Violence and sexual offences",
+        "crime_count":18385
+    },
+    {
+        "crime_type":"Anti-social behaviour",
+        "crime_count":11414
+    },
+    {
+        "crime_type":"Shoplifting",
+        "crime_count":4572
+    },
+    {
+        "crime_type":"Criminal damage and arson",
+        "crime_count":4169
+    },
+    {
+        "crime_type":"Public order",
+        "crime_count":3000
+    },
+    {
+        "crime_type":"Other theft",
+        "crime_count":2802
+    },
+    {
+        "crime_type":"Burglary",
+        "crime_count":1744
+    },
+    {
+        "crime_type":"Vehicle crime",
+        "crime_count":1396
+    },
+    {
+        "crime_type":"Other crime",
+        "crime_count":1105
+    },
+    {
+        "crime_type":"Drugs",
+        "crime_count":1061
+    },
+    {
+        "crime_type":"Bicycle theft",
+        "crime_count":566
+    },
+    {
+        "crime_type":"Possession of weapons",
+        "crime_count":368
+    },
+    {
+        "crime_type":"Robbery",
+        "crime_count":198
+    },
+    {
+        "crime_type":"Theft from the person",
+        "crime_count":176
+    }
+]

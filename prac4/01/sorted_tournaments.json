@@ -1,0 +1,202 @@
+[
+    {
+        "id": 274399,
+        "name": "Цюрих 1975",
+        "city": "Тудела",
+        "begin": "10.11",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2649,
+        "time_on_game": 176
+    },
+    {
+        "id": 411428,
+        "name": "Турнир претендентов 2020",
+        "city": "Семана",
+        "begin": "09.07",
+        "system": "Swiss",
+        "tours_count": 8,
+        "min_rating": 2648,
+        "time_on_game": 37
+    },
+    {
+        "id": 549178,
+        "name": "Кубок мира 1974",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "begin": "28.07",
+        "system": "circular",
+        "tours_count": 9,
+        "min_rating": 2642,
+        "time_on_game": 119
+    },
+    {
+        "id": 163295,
+        "name": "Макартур 1992",
+        "city": "Гранада",
+        "begin": "17.12",
+        "system": "circular",
+        "tours_count": 12,
+        "min_rating": 2639,
+        "time_on_game": 40
+    },
+    {
+        "id": 426432,
+        "name": "Турнир претендентов 2021",
+        "city": "Ташкент",
+        "begin": "10.05",
+        "system": "Swiss",
+        "tours_count": 6,
+        "min_rating": 2635,
+        "time_on_game": 148
+    },
+    {
+        "id": 842293,
+        "name": "Алушта 1972",
+        "city": "Скопье",
+        "begin": "14.06",
+        "system": "circular",
+        "tours_count": 14,
+        "min_rating": 2635,
+        "time_on_game": 34
+    },
+    {
+        "id": 571505,
+        "name": "Тилбург 1950",
+        "city": "Вальядолид",
+        "begin": "15.06",
+        "system": "circular",
+        "tours_count": 15,
+        "min_rating": 2632,
+        "time_on_game": 35
+    },
+    {
+        "id": 708610,
+        "name": "Вена 1974",
+        "city": "Самора",
+        "begin": "16.09",
+        "system": "Swiss",
+        "tours_count": 13,
+        "min_rating": 2632,
+        "time_on_game": 66
+    },
+    {
+        "id": 886626,
+        "name": "Реджо-нель-Эмилия 2013",
+        "city": "Краков",
+        "begin": "26.09",
+        "system": "Olympic",
+        "tours_count": 14,
+        "min_rating": 2628,
+        "time_on_game": 105
+    },
+    {
+        "id": 497428,
+        "name": "Аэрофлот Опен 2022",
+        "city": "Трухильо",
+        "begin": "26.10",
+        "system": "circular",
+        "tours_count": 11,
+        "min_rating": 2611,
+        "time_on_game": 19
+    },
+    {
+        "id": 766971,
+        "name": "Sinquefield Cup 2020",
+        "city": "Картахена",
+        "begin": "24.06",
+        "system": "circular",
+        "tours_count": 13,
+        "min_rating": 2608,
+        "time_on_game": 165
+    },
+    {
+        "id": 572832,
+        "name": "Тилбург 2024",
+        "city": "Вильявисиоса",
+        "begin": "13.05",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2606,
+        "time_on_game": 155
+    },
+    {
+        "id": 436232,
+        "name": "Пойковский 1988",
+        "city": "Вроцлав",
+        "begin": "16.08",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2602,
+        "time_on_game": 81
+    },
+    {
+        "id": 325244,
+        "name": "Гран-при ФИДЕ 1979",
+        "city": "Вроцлав",
+        "begin": "24.03",
+        "system": "Swiss",
+        "tours_count": 6,
+        "min_rating": 2598,
+        "time_on_game": 127
+    },
+    {
+        "id": 391744,
+        "name": "Вейк-ан-Зее 1977",
+        "city": "Таллин",
+        "begin": "20.11",
+        "system": "circular",
+        "tours_count": 15,
+        "min_rating": 2597,
+        "time_on_game": 180
+    },
+    {
+        "id": 421064,
+        "name": "Пальма 2015",
+        "city": "Киев",
+        "begin": "06.09",
+        "system": "circular",
+        "tours_count": 8,
+        "min_rating": 2597,
+        "time_on_game": 33
+    },
+    {
+        "id": 576854,
+        "name": "Сент-Луис 1990",
+        "city": "Аликанте",
+        "begin": "21.10",
+        "system": "Olympic",
+        "tours_count": 15,
+        "min_rating": 2595,
+        "time_on_game": 95
+    },
+    {
+        "id": 868037,
+        "name": "Пальма 2022",
+        "city": "Минск",
+        "begin": "11.07",
+        "system": "circular",
+        "tours_count": 12,
+        "min_rating": 2591,
+        "time_on_game": 74
+    },
+    {
+        "id": 969305,
+        "name": "Sinquefield Cup 1986",
+        "city": "Бланес",
+        "begin": "07.07",
+        "system": "Swiss",
+        "tours_count": 7,
+        "min_rating": 2590,
+        "time_on_game": 73
+    },
+    {
+        "id": 523803,
+        "name": "Чемпионат мира 2021",
+        "city": "Артейхо",
+        "begin": "03.11",
+        "system": "Olympic",
+        "tours_count": 6,
+        "min_rating": 2584,
+        "time_on_game": 57
+    }
+]

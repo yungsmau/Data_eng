@@ -1,0 +1,34 @@
+[
+    {
+        "category":null,
+        "total_price":33786.0,
+        "min_price":33786.0,
+        "max_price":33786.0,
+        "avg_price":33786.0,
+        "product_count":1
+    },
+    {
+        "category":"cosmetics",
+        "total_price":537.70833536,
+        "min_price":9.52364,
+        "max_price":97.59,
+        "avg_price":44.8090279467,
+        "product_count":12
+    },
+    {
+        "category":"fruit",
+        "total_price":361.774752,
+        "min_price":5.8,
+        "max_price":99.43,
+        "avg_price":36.1774752,
+        "product_count":10
+    },
+    {
+        "category":"tools",
+        "total_price":966.5659392,
+        "min_price":0.0,
+        "max_price":94.276416,
+        "avg_price":48.32829696,
+        "product_count":20
+    }
+]
