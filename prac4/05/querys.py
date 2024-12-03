@@ -135,3 +135,4 @@ result.to_json(
     indent=4,
 )
 print("5 done")
+conn.close()
