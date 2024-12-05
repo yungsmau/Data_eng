@@ -1,0 +1,4302 @@
+[
+    {
+        "_id": {
+            "city": "Фигерас",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 108162,
+        "avg_salary": 108162.0,
+        "max_salary": 108162
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "job": "Медсестра",
+            "age_range": "18-25"
+        },
+        "min_salary": 111387,
+        "avg_salary": 111387.0,
+        "max_salary": 111387
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 61343,
+        "avg_salary": 90262.0,
+        "max_salary": 119181
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 74505,
+        "avg_salary": 74505.0,
+        "max_salary": 74505
+    },
+    {
+        "_id": {
+            "city": "Пласенсия",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 49854,
+        "avg_salary": 49854.0,
+        "max_salary": 49854
+    },
+    {
+        "_id": {
+            "city": "Кадакес",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 80930,
+        "avg_salary": 80930.0,
+        "max_salary": 80930
+    },
+    {
+        "_id": {
+            "city": "Вильнюс",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 94983,
+        "avg_salary": 94983.0,
+        "max_salary": 94983
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 70011,
+        "avg_salary": 70011.0,
+        "max_salary": 70011
+    },
+    {
+        "_id": {
+            "city": "Алма-Ата",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 98952,
+        "avg_salary": 98952.0,
+        "max_salary": 98952
+    },
+    {
+        "_id": {
+            "city": "Кишинев",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 197938,
+        "avg_salary": 197938.0,
+        "max_salary": 197938
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 20445,
+        "avg_salary": 20445.0,
+        "max_salary": 20445
+    },
+    {
+        "_id": {
+            "city": "Виго",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 123537,
+        "avg_salary": 123537.0,
+        "max_salary": 123537
+    },
+    {
+        "_id": {
+            "city": "Льейда",
+            "job": "Архитектор",
+            "age_range": "18-25"
+        },
+        "min_salary": 42560,
+        "avg_salary": 66219.5,
+        "max_salary": 89879
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 125589,
+        "avg_salary": 129595.0,
+        "max_salary": 133601
+    },
+    {
+        "_id": {
+            "city": "Пласенсия",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 95554,
+        "avg_salary": 95554.0,
+        "max_salary": 95554
+    },
+    {
+        "_id": {
+            "city": "Куэнка",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 47030,
+        "avg_salary": 47030.0,
+        "max_salary": 47030
+    },
+    {
+        "_id": {
+            "city": "Сан-Себастьян",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 33530,
+        "avg_salary": 33530.0,
+        "max_salary": 33530
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 65556,
+        "avg_salary": 65556.0,
+        "max_salary": 65556
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 45437,
+        "avg_salary": 45437.0,
+        "max_salary": 45437
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 75159,
+        "avg_salary": 75159.0,
+        "max_salary": 75159
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 121233,
+        "avg_salary": 121233.0,
+        "max_salary": 121233
+    },
+    {
+        "_id": {
+            "city": "Любляна",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 162957,
+        "avg_salary": 162957.0,
+        "max_salary": 162957
+    },
+    {
+        "_id": {
+            "city": "Кадакес",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 145374,
+        "avg_salary": 145374.0,
+        "max_salary": 145374
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "job": "Учитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 48890,
+        "avg_salary": 48890.0,
+        "max_salary": 48890
+    },
+    {
+        "_id": {
+            "city": "Алькала-де-Энарес",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 28231,
+        "avg_salary": 76723.5,
+        "max_salary": 125216
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 110146,
+        "avg_salary": 110146.0,
+        "max_salary": 110146
+    },
+    {
+        "_id": {
+            "city": "Пласенсия",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 131321,
+        "avg_salary": 131321.0,
+        "max_salary": 131321
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "job": "Менеджер",
+            "age_range": "18-25"
+        },
+        "min_salary": 92779,
+        "avg_salary": 92779.0,
+        "max_salary": 92779
+    },
+    {
+        "_id": {
+            "city": "Тарраса",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 41203,
+        "avg_salary": 41203.0,
+        "max_salary": 41203
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 141932,
+        "avg_salary": 141932.0,
+        "max_salary": 141932
+    },
+    {
+        "_id": {
+            "city": "Сьюдад-Реаль",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 61461,
+        "avg_salary": 61461.0,
+        "max_salary": 61461
+    },
+    {
+        "_id": {
+            "city": "Бланес",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 29080,
+        "avg_salary": 105802.0,
+        "max_salary": 182524
+    },
+    {
+        "_id": {
+            "city": "Тбилиси",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 68781,
+        "avg_salary": 68781.0,
+        "max_salary": 68781
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 28169,
+        "avg_salary": 28169.0,
+        "max_salary": 28169
+    },
+    {
+        "_id": {
+            "city": "Сараево",
+            "job": "Инженер",
+            "age_range": "18-25"
+        },
+        "min_salary": 87933,
+        "avg_salary": 125903.0,
+        "max_salary": 155621
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 190051,
+        "avg_salary": 190051.0,
+        "max_salary": 190051
+    },
+    {
+        "_id": {
+            "city": "Бишкек",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 71378,
+        "avg_salary": 71378.0,
+        "max_salary": 71378
+    },
+    {
+        "_id": {
+            "city": "Тудела",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 149472,
+        "avg_salary": 149472.0,
+        "max_salary": 149472
+    },
+    {
+        "_id": {
+            "city": "Прага",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 191587,
+        "avg_salary": 191587.0,
+        "max_salary": 191587
+    },
+    {
+        "_id": {
+            "city": "Алма-Ата",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 84752,
+        "avg_salary": 84752.0,
+        "max_salary": 84752
+    },
+    {
+        "_id": {
+            "city": "Мадрид",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 50941,
+        "avg_salary": 50941.0,
+        "max_salary": 50941
+    },
+    {
+        "_id": {
+            "city": "Загреб",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 40641,
+        "avg_salary": 40641.0,
+        "max_salary": 40641
+    },
+    {
+        "_id": {
+            "city": "Афины",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 179857,
+        "avg_salary": 179857.0,
+        "max_salary": 179857
+    },
+    {
+        "_id": {
+            "city": "София",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 143029,
+        "avg_salary": 143029.0,
+        "max_salary": 143029
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 46008,
+        "avg_salary": 46008.0,
+        "max_salary": 46008
+    },
+    {
+        "_id": {
+            "city": "Загреб",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 55336,
+        "avg_salary": 55336.0,
+        "max_salary": 55336
+    },
+    {
+        "_id": {
+            "city": "Авилес",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 174304,
+        "avg_salary": 174304.0,
+        "max_salary": 174304
+    },
+    {
+        "_id": {
+            "city": "Эльче",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 57489,
+        "avg_salary": 57489.0,
+        "max_salary": 57489
+    },
+    {
+        "_id": {
+            "city": "Сьюдад-Реаль",
+            "job": "Косметолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 182127,
+        "avg_salary": 182127.0,
+        "max_salary": 182127
+    },
+    {
+        "_id": {
+            "city": "Ташкент",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 186500,
+        "avg_salary": 186500.0,
+        "max_salary": 186500
+    },
+    {
+        "_id": {
+            "city": "Гранада",
+            "job": "Строитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 158014,
+        "avg_salary": 158014.0,
+        "max_salary": 158014
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 144074,
+        "avg_salary": 144074.0,
+        "max_salary": 144074
+    },
+    {
+        "_id": {
+            "city": "Севилья",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 144361,
+        "avg_salary": 144361.0,
+        "max_salary": 144361
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "job": "Косметолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 62728,
+        "avg_salary": 62728.0,
+        "max_salary": 62728
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 197202,
+        "avg_salary": 197202.0,
+        "max_salary": 197202
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 103204,
+        "avg_salary": 103204.0,
+        "max_salary": 103204
+    },
+    {
+        "_id": {
+            "city": "Загреб",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 100175,
+        "avg_salary": 100175.0,
+        "max_salary": 100175
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 37314,
+        "avg_salary": 37314.0,
+        "max_salary": 37314
+    },
+    {
+        "_id": {
+            "city": "Льейда",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 137570,
+        "avg_salary": 137570.0,
+        "max_salary": 137570
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 120968,
+        "avg_salary": 120968.0,
+        "max_salary": 120968
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Инженер",
+            "age_range": "18-25"
+        },
+        "min_salary": 195334,
+        "avg_salary": 195334.0,
+        "max_salary": 195334
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 121385,
+        "avg_salary": 121385.0,
+        "max_salary": 121385
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 65476,
+        "avg_salary": 65476.0,
+        "max_salary": 65476
+    },
+    {
+        "_id": {
+            "city": "Ереван",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 134733,
+        "avg_salary": 156168.0,
+        "max_salary": 177603
+    },
+    {
+        "_id": {
+            "city": "Кишинев",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 131083,
+        "avg_salary": 131083.0,
+        "max_salary": 131083
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 152198,
+        "avg_salary": 174743.0,
+        "max_salary": 197288
+    },
+    {
+        "_id": {
+            "city": "Рига",
+            "job": "Психолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 26777,
+        "avg_salary": 26777.0,
+        "max_salary": 26777
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 174640,
+        "avg_salary": 174640.0,
+        "max_salary": 174640
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 189447,
+        "avg_salary": 189447.0,
+        "max_salary": 189447
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 121373,
+        "avg_salary": 121373.0,
+        "max_salary": 121373
+    },
+    {
+        "_id": {
+            "city": "Луго",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 139946,
+        "avg_salary": 152937.5,
+        "max_salary": 165929
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Продавец",
+            "age_range": "18-25"
+        },
+        "min_salary": 198284,
+        "avg_salary": 198284.0,
+        "max_salary": 198284
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "job": "Менеджер",
+            "age_range": "18-25"
+        },
+        "min_salary": 113238,
+        "avg_salary": 113238.0,
+        "max_salary": 113238
+    },
+    {
+        "_id": {
+            "city": "Кишинев",
+            "job": "Психолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 112902,
+        "avg_salary": 112902.0,
+        "max_salary": 112902
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 139304,
+        "avg_salary": 139304.0,
+        "max_salary": 139304
+    },
+    {
+        "_id": {
+            "city": "Кадакес",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 42992,
+        "avg_salary": 42992.0,
+        "max_salary": 42992
+    },
+    {
+        "_id": {
+            "city": "Сараево",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 159442,
+        "avg_salary": 159442.0,
+        "max_salary": 159442
+    },
+    {
+        "_id": {
+            "city": "Камбадос",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 145197,
+        "avg_salary": 145197.0,
+        "max_salary": 145197
+    },
+    {
+        "_id": {
+            "city": "Москва",
+            "job": "Медсестра",
+            "age_range": "18-25"
+        },
+        "min_salary": 158685,
+        "avg_salary": 158685.0,
+        "max_salary": 158685
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 38216,
+        "avg_salary": 40543.5,
+        "max_salary": 42871
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Строитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 73858,
+        "avg_salary": 73858.0,
+        "max_salary": 73858
+    },
+    {
+        "_id": {
+            "city": "Санкт-Петербург",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 40277,
+        "avg_salary": 40277.0,
+        "max_salary": 40277
+    },
+    {
+        "_id": {
+            "city": "Авилес",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 87034,
+        "avg_salary": 87034.0,
+        "max_salary": 87034
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 27434,
+        "avg_salary": 27434.0,
+        "max_salary": 27434
+    },
+    {
+        "_id": {
+            "city": "Хихон",
+            "job": "Учитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 53879,
+        "avg_salary": 61180.5,
+        "max_salary": 68482
+    },
+    {
+        "_id": {
+            "city": "Виго",
+            "job": "Врач",
+            "age_range": "18-25"
+        },
+        "min_salary": 62123,
+        "avg_salary": 62123.0,
+        "max_salary": 62123
+    },
+    {
+        "_id": {
+            "city": "Тудела",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 24725,
+        "avg_salary": 24725.0,
+        "max_salary": 24725
+    },
+    {
+        "_id": {
+            "city": "Мадрид",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 130039,
+        "avg_salary": 130039.0,
+        "max_salary": 130039
+    },
+    {
+        "_id": {
+            "city": "Сараево",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 134260,
+        "avg_salary": 134260.0,
+        "max_salary": 134260
+    },
+    {
+        "_id": {
+            "city": "Белград",
+            "job": "Врач",
+            "age_range": "18-25"
+        },
+        "min_salary": 61588,
+        "avg_salary": 61588.0,
+        "max_salary": 61588
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 23866,
+        "avg_salary": 23866.0,
+        "max_salary": 23866
+    },
+    {
+        "_id": {
+            "city": "Камбадос",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 180077,
+        "avg_salary": 180077.0,
+        "max_salary": 180077
+    },
+    {
+        "_id": {
+            "city": "Овьедо",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 29216,
+        "avg_salary": 29216.0,
+        "max_salary": 29216
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 90453,
+        "avg_salary": 90453.0,
+        "max_salary": 90453
+    },
+    {
+        "_id": {
+            "city": "Барселона",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 37981,
+        "avg_salary": 37981.0,
+        "max_salary": 37981
+    },
+    {
+        "_id": {
+            "city": "Рига",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 98113,
+        "avg_salary": 98113.0,
+        "max_salary": 98113
+    },
+    {
+        "_id": {
+            "city": "Виго",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 90936,
+        "avg_salary": 90936.0,
+        "max_salary": 90936
+    },
+    {
+        "_id": {
+            "city": "Сараево",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 50634,
+        "avg_salary": 50634.0,
+        "max_salary": 50634
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "Косметолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 53167,
+        "avg_salary": 53167.0,
+        "max_salary": 53167
+    },
+    {
+        "_id": {
+            "city": "Вроцлав",
+            "job": "Медсестра",
+            "age_range": "18-25"
+        },
+        "min_salary": 25337,
+        "avg_salary": 25337.0,
+        "max_salary": 25337
+    },
+    {
+        "_id": {
+            "city": "Алькала-де-Энарес",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 136753,
+        "avg_salary": 136753.0,
+        "max_salary": 136753
+    },
+    {
+        "_id": {
+            "city": "Эль-Пуэрто-де-Санта-Мария",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 21515,
+        "avg_salary": 21515.0,
+        "max_salary": 21515
+    },
+    {
+        "_id": {
+            "city": "Картахена",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 145272,
+        "avg_salary": 145687.5,
+        "max_salary": 146103
+    },
+    {
+        "_id": {
+            "city": "Севилья",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 121095,
+        "avg_salary": 121095.0,
+        "max_salary": 121095
+    },
+    {
+        "_id": {
+            "city": "Тудела",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 70493,
+        "avg_salary": 70493.0,
+        "max_salary": 70493
+    },
+    {
+        "_id": {
+            "city": "Сория",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 111745,
+        "avg_salary": 111745.0,
+        "max_salary": 111745
+    },
+    {
+        "_id": {
+            "city": "Севилья",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 43899,
+        "avg_salary": 43899.0,
+        "max_salary": 43899
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 53395,
+        "avg_salary": 53395.0,
+        "max_salary": 53395
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 179943,
+        "avg_salary": 179943.0,
+        "max_salary": 179943
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 183085,
+        "avg_salary": 183085.0,
+        "max_salary": 183085
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 112932,
+        "avg_salary": 112932.0,
+        "max_salary": 112932
+    },
+    {
+        "_id": {
+            "city": "Ереван",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 42820,
+        "avg_salary": 42820.0,
+        "max_salary": 42820
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 142171,
+        "avg_salary": 142171.0,
+        "max_salary": 142171
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 68845,
+        "avg_salary": 68845.0,
+        "max_salary": 68845
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 163990,
+        "avg_salary": 163990.0,
+        "max_salary": 163990
+    },
+    {
+        "_id": {
+            "city": "Подгорица",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 175940,
+        "avg_salary": 175940.0,
+        "max_salary": 175940
+    },
+    {
+        "_id": {
+            "city": "Афины",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 181403,
+        "avg_salary": 181403.0,
+        "max_salary": 181403
+    },
+    {
+        "_id": {
+            "city": "Кадакес",
+            "job": "Продавец",
+            "age_range": "18-25"
+        },
+        "min_salary": 153308,
+        "avg_salary": 153308.0,
+        "max_salary": 153308
+    },
+    {
+        "_id": {
+            "city": "Ереван",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 38897,
+        "avg_salary": 38897.0,
+        "max_salary": 38897
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 120886,
+        "avg_salary": 120886.0,
+        "max_salary": 120886
+    },
+    {
+        "_id": {
+            "city": "Алькала-де-Энарес",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 24659,
+        "avg_salary": 24659.0,
+        "max_salary": 24659
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 134127,
+        "avg_salary": 134127.0,
+        "max_salary": 134127
+    },
+    {
+        "_id": {
+            "city": "Вильнюс",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 165442,
+        "avg_salary": 165442.0,
+        "max_salary": 165442
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 86173,
+        "avg_salary": 86173.0,
+        "max_salary": 86173
+    },
+    {
+        "_id": {
+            "city": "Сория",
+            "job": "Строитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 104198,
+        "avg_salary": 104198.0,
+        "max_salary": 104198
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 184451,
+        "avg_salary": 184451.0,
+        "max_salary": 184451
+    },
+    {
+        "_id": {
+            "city": "Кадакес",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 174611,
+        "avg_salary": 174611.0,
+        "max_salary": 174611
+    },
+    {
+        "_id": {
+            "city": "Алькала-де-Энарес",
+            "job": "Психолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 163819,
+        "avg_salary": 163819.0,
+        "max_salary": 163819
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 134351,
+        "avg_salary": 134351.0,
+        "max_salary": 134351
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 102819,
+        "avg_salary": 102819.0,
+        "max_salary": 102819
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 38820,
+        "avg_salary": 38820.0,
+        "max_salary": 38820
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 53847,
+        "avg_salary": 55433.5,
+        "max_salary": 57020
+    },
+    {
+        "_id": {
+            "city": "Алькала-де-Энарес",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 78174,
+        "avg_salary": 112594.0,
+        "max_salary": 147014
+    },
+    {
+        "_id": {
+            "city": "Овьедо",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 188961,
+        "avg_salary": 188961.0,
+        "max_salary": 188961
+    },
+    {
+        "_id": {
+            "city": "Луарка",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 39321,
+        "avg_salary": 79784.0,
+        "max_salary": 120247
+    },
+    {
+        "_id": {
+            "city": "Любляна",
+            "job": "Учитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 115788,
+        "avg_salary": 115788.0,
+        "max_salary": 115788
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 62734,
+        "avg_salary": 62734.0,
+        "max_salary": 62734
+    },
+    {
+        "_id": {
+            "city": "Сараево",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 100858,
+        "avg_salary": 100858.0,
+        "max_salary": 100858
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "job": "Косметолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 83521,
+        "avg_salary": 83521.0,
+        "max_salary": 83521
+    },
+    {
+        "_id": {
+            "city": "Гранада",
+            "job": "Архитектор",
+            "age_range": "18-25"
+        },
+        "min_salary": 143889,
+        "avg_salary": 143889.0,
+        "max_salary": 143889
+    },
+    {
+        "_id": {
+            "city": "Сория",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 58162,
+        "avg_salary": 58162.0,
+        "max_salary": 58162
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 104403,
+        "avg_salary": 144165.5,
+        "max_salary": 183928
+    },
+    {
+        "_id": {
+            "city": "Куэнка",
+            "job": "Врач",
+            "age_range": "18-25"
+        },
+        "min_salary": 194452,
+        "avg_salary": 194452.0,
+        "max_salary": 194452
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 63741,
+        "avg_salary": 63741.0,
+        "max_salary": 63741
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 168732,
+        "avg_salary": 168732.0,
+        "max_salary": 168732
+    },
+    {
+        "_id": {
+            "city": "Скопье",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 62346,
+        "avg_salary": 120238.5,
+        "max_salary": 178131
+    },
+    {
+        "_id": {
+            "city": "Любляна",
+            "job": "Строитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 124066,
+        "avg_salary": 124066.0,
+        "max_salary": 124066
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 30274,
+        "avg_salary": 62816.5,
+        "max_salary": 95359
+    },
+    {
+        "_id": {
+            "city": "Афины",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 37010,
+        "avg_salary": 37010.0,
+        "max_salary": 37010
+    },
+    {
+        "_id": {
+            "city": "Душанбе",
+            "job": "Продавец",
+            "age_range": "18-25"
+        },
+        "min_salary": 178774,
+        "avg_salary": 178774.0,
+        "max_salary": 178774
+    },
+    {
+        "_id": {
+            "city": "Мерида",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 88710,
+        "avg_salary": 88710.0,
+        "max_salary": 88710
+    },
+    {
+        "_id": {
+            "city": "Алькала-де-Энарес",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 43567,
+        "avg_salary": 43567.0,
+        "max_salary": 43567
+    },
+    {
+        "_id": {
+            "city": "Кадакес",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 169444,
+        "avg_salary": 169444.0,
+        "max_salary": 169444
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 37836,
+        "avg_salary": 37836.0,
+        "max_salary": 37836
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 130914,
+        "avg_salary": 130914.0,
+        "max_salary": 130914
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 122677,
+        "avg_salary": 122677.0,
+        "max_salary": 122677
+    },
+    {
+        "_id": {
+            "city": "Краков",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 26031,
+        "avg_salary": 26031.0,
+        "max_salary": 26031
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 101768,
+        "avg_salary": 101768.0,
+        "max_salary": 101768
+    },
+    {
+        "_id": {
+            "city": "Кишинев",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 32179,
+        "avg_salary": 32179.0,
+        "max_salary": 32179
+    },
+    {
+        "_id": {
+            "city": "Барселона",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 30580,
+        "avg_salary": 30580.0,
+        "max_salary": 30580
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 152385,
+        "avg_salary": 152385.0,
+        "max_salary": 152385
+    },
+    {
+        "_id": {
+            "city": "Мартоса",
+            "job": "Архитектор",
+            "age_range": "18-25"
+        },
+        "min_salary": 139227,
+        "avg_salary": 139227.0,
+        "max_salary": 139227
+    },
+    {
+        "_id": {
+            "city": "Подгорица",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 90522,
+        "avg_salary": 124628.5,
+        "max_salary": 158735
+    },
+    {
+        "_id": {
+            "city": "Мерида",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 147846,
+        "avg_salary": 147846.0,
+        "max_salary": 147846
+    },
+    {
+        "_id": {
+            "city": "Льейда",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 186140,
+        "avg_salary": 186140.0,
+        "max_salary": 186140
+    },
+    {
+        "_id": {
+            "city": "Эльче",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 72372,
+        "avg_salary": 72372.0,
+        "max_salary": 72372
+    },
+    {
+        "_id": {
+            "city": "Прага",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 172570,
+        "avg_salary": 172570.0,
+        "max_salary": 172570
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "job": "Продавец",
+            "age_range": "18-25"
+        },
+        "min_salary": 161594,
+        "avg_salary": 161594.0,
+        "max_salary": 161594
+    },
+    {
+        "_id": {
+            "city": "Эль-Пуэрто-де-Санта-Мария",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 162706,
+        "avg_salary": 162706.0,
+        "max_salary": 162706
+    },
+    {
+        "_id": {
+            "city": "Вроцлав",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 162272,
+        "avg_salary": 162272.0,
+        "max_salary": 162272
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 175420,
+        "avg_salary": 175420.0,
+        "max_salary": 175420
+    },
+    {
+        "_id": {
+            "city": "Луго",
+            "job": "Архитектор",
+            "age_range": "18-25"
+        },
+        "min_salary": 155106,
+        "avg_salary": 155106.0,
+        "max_salary": 155106
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "Инженер",
+            "age_range": "18-25"
+        },
+        "min_salary": 172256,
+        "avg_salary": 172256.0,
+        "max_salary": 172256
+    },
+    {
+        "_id": {
+            "city": "Монсон",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 27520,
+        "avg_salary": 27520.0,
+        "max_salary": 27520
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "job": "Косметолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 45161,
+        "avg_salary": 45161.0,
+        "max_salary": 45161
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 145122,
+        "avg_salary": 145122.0,
+        "max_salary": 145122
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 60347,
+        "avg_salary": 115290.0,
+        "max_salary": 170233
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 136099,
+        "avg_salary": 150331.5,
+        "max_salary": 164564
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 190812,
+        "avg_salary": 190812.0,
+        "max_salary": 190812
+    },
+    {
+        "_id": {
+            "city": "Фигерас",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 89716,
+        "avg_salary": 89716.0,
+        "max_salary": 89716
+    },
+    {
+        "_id": {
+            "city": "Монсон",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 27746,
+        "avg_salary": 100733.0,
+        "max_salary": 173720
+    },
+    {
+        "_id": {
+            "city": "Овьедо",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 106738,
+        "avg_salary": 106738.0,
+        "max_salary": 106738
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 134583,
+        "avg_salary": 134583.0,
+        "max_salary": 134583
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 104696,
+        "avg_salary": 104696.0,
+        "max_salary": 104696
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 69305,
+        "avg_salary": 69305.0,
+        "max_salary": 69305
+    },
+    {
+        "_id": {
+            "city": "Эль-Пуэрто-де-Санта-Мария",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 138752,
+        "avg_salary": 138752.0,
+        "max_salary": 138752
+    },
+    {
+        "_id": {
+            "city": "Семана",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 79787,
+        "avg_salary": 79787.0,
+        "max_salary": 79787
+    },
+    {
+        "_id": {
+            "city": "Душанбе",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 120639,
+        "avg_salary": 120639.0,
+        "max_salary": 120639
+    },
+    {
+        "_id": {
+            "city": "Авилес",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 152875,
+        "avg_salary": 152875.0,
+        "max_salary": 152875
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "job": "Менеджер",
+            "age_range": "18-25"
+        },
+        "min_salary": 82289,
+        "avg_salary": 82289.0,
+        "max_salary": 82289
+    },
+    {
+        "_id": {
+            "city": "Тарраса",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 178599,
+        "avg_salary": 178599.0,
+        "max_salary": 178599
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 71953,
+        "avg_salary": 71953.0,
+        "max_salary": 71953
+    },
+    {
+        "_id": {
+            "city": "Барселона",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 53647,
+        "avg_salary": 85210.5,
+        "max_salary": 116774
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 139028,
+        "avg_salary": 139028.0,
+        "max_salary": 139028
+    },
+    {
+        "_id": {
+            "city": "Загреб",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 46875,
+        "avg_salary": 46875.0,
+        "max_salary": 46875
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "job": "Строитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 139583,
+        "avg_salary": 139583.0,
+        "max_salary": 139583
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 151074,
+        "avg_salary": 151074.0,
+        "max_salary": 151074
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 72971,
+        "avg_salary": 72971.0,
+        "max_salary": 72971
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 102110,
+        "avg_salary": 102110.0,
+        "max_salary": 102110
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 147245,
+        "avg_salary": 148253.5,
+        "max_salary": 149262
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 53908,
+        "avg_salary": 53908.0,
+        "max_salary": 53908
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 63630,
+        "avg_salary": 63630.0,
+        "max_salary": 63630
+    },
+    {
+        "_id": {
+            "city": "Краков",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 110968,
+        "avg_salary": 110968.0,
+        "max_salary": 110968
+    },
+    {
+        "_id": {
+            "city": "Монсон",
+            "job": "Инженер",
+            "age_range": "18-25"
+        },
+        "min_salary": 108965,
+        "avg_salary": 108965.0,
+        "max_salary": 108965
+    },
+    {
+        "_id": {
+            "city": "Скопье",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 189048,
+        "avg_salary": 189048.0,
+        "max_salary": 189048
+    },
+    {
+        "_id": {
+            "city": "Баку",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 53061,
+        "avg_salary": 53061.0,
+        "max_salary": 53061
+    },
+    {
+        "_id": {
+            "city": "Камбадос",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 125533,
+        "avg_salary": 125533.0,
+        "max_salary": 125533
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 52587,
+        "avg_salary": 113010.0,
+        "max_salary": 173433
+    },
+    {
+        "_id": {
+            "city": "Авилес",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 170906,
+        "avg_salary": 170906.0,
+        "max_salary": 170906
+    },
+    {
+        "_id": {
+            "city": "Астана",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 158520,
+        "avg_salary": 158520.0,
+        "max_salary": 158520
+    },
+    {
+        "_id": {
+            "city": "Ла-Корунья",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 22362,
+        "avg_salary": 81151.5,
+        "max_salary": 139941
+    },
+    {
+        "_id": {
+            "city": "Барселона",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 138524,
+        "avg_salary": 138524.0,
+        "max_salary": 138524
+    },
+    {
+        "_id": {
+            "city": "Ла-Корунья",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 28306,
+        "avg_salary": 43200.5,
+        "max_salary": 58095
+    },
+    {
+        "_id": {
+            "city": "Белград",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 186765,
+        "avg_salary": 186765.0,
+        "max_salary": 186765
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 71696,
+        "avg_salary": 122648.0,
+        "max_salary": 173600
+    },
+    {
+        "_id": {
+            "city": "Хихон",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 35698,
+        "avg_salary": 89734.33333333333,
+        "max_salary": 172871
+    },
+    {
+        "_id": {
+            "city": "Скопье",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 24086,
+        "avg_salary": 24086.0,
+        "max_salary": 24086
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 174326,
+        "avg_salary": 174326.0,
+        "max_salary": 174326
+    },
+    {
+        "_id": {
+            "city": "Сараево",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 95422,
+        "avg_salary": 106997.5,
+        "max_salary": 118573
+    },
+    {
+        "_id": {
+            "city": "Ташкент",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 69602,
+        "avg_salary": 69602.0,
+        "max_salary": 69602
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "job": "Инженер",
+            "age_range": "18-25"
+        },
+        "min_salary": 64217,
+        "avg_salary": 102644.0,
+        "max_salary": 141071
+    },
+    {
+        "_id": {
+            "city": "Афины",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 141128,
+        "avg_salary": 141128.0,
+        "max_salary": 141128
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 126149,
+        "avg_salary": 126149.0,
+        "max_salary": 126149
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "Инженер",
+            "age_range": "18-25"
+        },
+        "min_salary": 177258,
+        "avg_salary": 177258.0,
+        "max_salary": 177258
+    },
+    {
+        "_id": {
+            "city": "Ла-Корунья",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 29704,
+        "avg_salary": 29704.0,
+        "max_salary": 29704
+    },
+    {
+        "_id": {
+            "city": "Камбадос",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 175257,
+        "avg_salary": 175257.0,
+        "max_salary": 175257
+    },
+    {
+        "_id": {
+            "city": "Гранада",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 187746,
+        "avg_salary": 187746.0,
+        "max_salary": 187746
+    },
+    {
+        "_id": {
+            "city": "Овьедо",
+            "job": "Продавец",
+            "age_range": "18-25"
+        },
+        "min_salary": 39103,
+        "avg_salary": 39103.0,
+        "max_salary": 39103
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Медсестра",
+            "age_range": "18-25"
+        },
+        "min_salary": 45307,
+        "avg_salary": 45307.0,
+        "max_salary": 45307
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 102458,
+        "avg_salary": 102458.0,
+        "max_salary": 102458
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 79681,
+        "avg_salary": 79681.0,
+        "max_salary": 79681
+    },
+    {
+        "_id": {
+            "city": "Сьюдад-Реаль",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 188156,
+        "avg_salary": 188156.0,
+        "max_salary": 188156
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 126518,
+        "avg_salary": 126518.0,
+        "max_salary": 126518
+    },
+    {
+        "_id": {
+            "city": "Хихон",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 85757,
+        "avg_salary": 85757.0,
+        "max_salary": 85757
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 128740,
+        "avg_salary": 128740.0,
+        "max_salary": 128740
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 105080,
+        "avg_salary": 105080.0,
+        "max_salary": 105080
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 51731,
+        "avg_salary": 121075.5,
+        "max_salary": 190420
+    },
+    {
+        "_id": {
+            "city": "Хельсинки",
+            "job": "Менеджер",
+            "age_range": "18-25"
+        },
+        "min_salary": 139464,
+        "avg_salary": 139464.0,
+        "max_salary": 139464
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 118986,
+        "avg_salary": 118986.0,
+        "max_salary": 118986
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "job": "Врач",
+            "age_range": "18-25"
+        },
+        "min_salary": 64564,
+        "avg_salary": 64564.0,
+        "max_salary": 64564
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 124696,
+        "avg_salary": 124696.0,
+        "max_salary": 124696
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 158422,
+        "avg_salary": 158422.0,
+        "max_salary": 158422
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 188562,
+        "avg_salary": 188562.0,
+        "max_salary": 188562
+    },
+    {
+        "_id": {
+            "city": "Пласенсия",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 79763,
+        "avg_salary": 79763.0,
+        "max_salary": 79763
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 44365,
+        "avg_salary": 44365.0,
+        "max_salary": 44365
+    },
+    {
+        "_id": {
+            "city": "Луарка",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 55086,
+        "avg_salary": 55086.0,
+        "max_salary": 55086
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 43604,
+        "avg_salary": 43604.0,
+        "max_salary": 43604
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 178688,
+        "avg_salary": 178688.0,
+        "max_salary": 178688
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 174655,
+        "avg_salary": 174655.0,
+        "max_salary": 174655
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 53973,
+        "avg_salary": 111602.0,
+        "max_salary": 169231
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 180499,
+        "avg_salary": 180499.0,
+        "max_salary": 180499
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 95442,
+        "avg_salary": 95442.0,
+        "max_salary": 95442
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 70557,
+        "avg_salary": 70557.0,
+        "max_salary": 70557
+    },
+    {
+        "_id": {
+            "city": "Хихон",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 53232,
+        "avg_salary": 53232.0,
+        "max_salary": 53232
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "job": "Врач",
+            "age_range": "18-25"
+        },
+        "min_salary": 154776,
+        "avg_salary": 154776.0,
+        "max_salary": 154776
+    },
+    {
+        "_id": {
+            "city": "Севилья",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 35148,
+        "avg_salary": 35148.0,
+        "max_salary": 35148
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 116737,
+        "avg_salary": 116737.0,
+        "max_salary": 116737
+    },
+    {
+        "_id": {
+            "city": "Санкт-Петербург",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 95825,
+        "avg_salary": 95825.0,
+        "max_salary": 95825
+    },
+    {
+        "_id": {
+            "city": "Льейда",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 158228,
+        "avg_salary": 158228.0,
+        "max_salary": 158228
+    },
+    {
+        "_id": {
+            "city": "Хельсинки",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 80047,
+        "avg_salary": 99025.0,
+        "max_salary": 118003
+    },
+    {
+        "_id": {
+            "city": "Душанбе",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 79630,
+        "avg_salary": 79630.0,
+        "max_salary": 79630
+    },
+    {
+        "_id": {
+            "city": "Фигерас",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 33254,
+        "avg_salary": 33254.0,
+        "max_salary": 33254
+    },
+    {
+        "_id": {
+            "city": "Фигерас",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 96014,
+        "avg_salary": 96014.0,
+        "max_salary": 96014
+    },
+    {
+        "_id": {
+            "city": "Ла-Корунья",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 23862,
+        "avg_salary": 23862.0,
+        "max_salary": 23862
+    },
+    {
+        "_id": {
+            "city": "Душанбе",
+            "job": "Психолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 44552,
+        "avg_salary": 44552.0,
+        "max_salary": 44552
+    },
+    {
+        "_id": {
+            "city": "Камбадос",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 96776,
+        "avg_salary": 96776.0,
+        "max_salary": 96776
+    },
+    {
+        "_id": {
+            "city": "Эль-Пуэрто-де-Санта-Мария",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 173354,
+        "avg_salary": 173354.0,
+        "max_salary": 173354
+    },
+    {
+        "_id": {
+            "city": "Вильнюс",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 77561,
+        "avg_salary": 77561.0,
+        "max_salary": 77561
+    },
+    {
+        "_id": {
+            "city": "Семана",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 32334,
+        "avg_salary": 32334.0,
+        "max_salary": 32334
+    },
+    {
+        "_id": {
+            "city": "Бланес",
+            "job": "Врач",
+            "age_range": "18-25"
+        },
+        "min_salary": 51519,
+        "avg_salary": 51519.0,
+        "max_salary": 51519
+    },
+    {
+        "_id": {
+            "city": "Рига",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 180704,
+        "avg_salary": 180704.0,
+        "max_salary": 180704
+    },
+    {
+        "_id": {
+            "city": "Ла-Корунья",
+            "job": "Повар",
+            "age_range": "18-25"
+        },
+        "min_salary": 118714,
+        "avg_salary": 118714.0,
+        "max_salary": 118714
+    },
+    {
+        "_id": {
+            "city": "Краков",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 36614,
+        "avg_salary": 45619.0,
+        "max_salary": 54624
+    },
+    {
+        "_id": {
+            "city": "Мартоса",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 157516,
+        "avg_salary": 157516.0,
+        "max_salary": 157516
+    },
+    {
+        "_id": {
+            "city": "Таллин",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 66177,
+        "avg_salary": 66177.0,
+        "max_salary": 66177
+    },
+    {
+        "_id": {
+            "city": "Бланес",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 31280,
+        "avg_salary": 31280.0,
+        "max_salary": 31280
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 125984,
+        "avg_salary": 125984.0,
+        "max_salary": 125984
+    },
+    {
+        "_id": {
+            "city": "Вильнюс",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 57276,
+        "avg_salary": 57276.0,
+        "max_salary": 57276
+    },
+    {
+        "_id": {
+            "city": "Виго",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 49453,
+        "avg_salary": 49453.0,
+        "max_salary": 49453
+    },
+    {
+        "_id": {
+            "city": "Афины",
+            "job": "Психолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 157534,
+        "avg_salary": 157534.0,
+        "max_salary": 157534
+    },
+    {
+        "_id": {
+            "city": "Варшава",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 23146,
+        "avg_salary": 23146.0,
+        "max_salary": 23146
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 149706,
+        "avg_salary": 149706.0,
+        "max_salary": 149706
+    },
+    {
+        "_id": {
+            "city": "Вроцлав",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 20599,
+        "avg_salary": 77974.5,
+        "max_salary": 135350
+    },
+    {
+        "_id": {
+            "city": "Санкт-Петербург",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 80686,
+        "avg_salary": 80686.0,
+        "max_salary": 80686
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 193469,
+        "avg_salary": 193469.0,
+        "max_salary": 193469
+    },
+    {
+        "_id": {
+            "city": "Мартоса",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 193292,
+        "avg_salary": 193292.0,
+        "max_salary": 193292
+    },
+    {
+        "_id": {
+            "city": "Тирана",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 69018,
+        "avg_salary": 69018.0,
+        "max_salary": 69018
+    },
+    {
+        "_id": {
+            "city": "Ереван",
+            "job": "Повар",
+            "age_range": "18-25"
+        },
+        "min_salary": 23020,
+        "avg_salary": 23020.0,
+        "max_salary": 23020
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 121356,
+        "avg_salary": 121356.0,
+        "max_salary": 121356
+    },
+    {
+        "_id": {
+            "city": "Льейда",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 53797,
+        "avg_salary": 53797.0,
+        "max_salary": 53797
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 158236,
+        "avg_salary": 158236.0,
+        "max_salary": 158236
+    },
+    {
+        "_id": {
+            "city": "Бильбао",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 116712,
+        "avg_salary": 116712.0,
+        "max_salary": 116712
+    },
+    {
+        "_id": {
+            "city": "Москва",
+            "job": "Учитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 28370,
+        "avg_salary": 28370.0,
+        "max_salary": 28370
+    },
+    {
+        "_id": {
+            "city": "Санкт-Петербург",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 128190,
+        "avg_salary": 128190.0,
+        "max_salary": 128190
+    },
+    {
+        "_id": {
+            "city": "Кишинев",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 138613,
+        "avg_salary": 138613.0,
+        "max_salary": 138613
+    },
+    {
+        "_id": {
+            "city": "Прага",
+            "job": "Менеджер",
+            "age_range": "18-25"
+        },
+        "min_salary": 33093,
+        "avg_salary": 33093.0,
+        "max_salary": 33093
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "job": "Косметолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 20997,
+        "avg_salary": 20997.0,
+        "max_salary": 20997
+    },
+    {
+        "_id": {
+            "city": "Загреб",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 120072,
+        "avg_salary": 120072.0,
+        "max_salary": 120072
+    },
+    {
+        "_id": {
+            "city": "Монсон",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 126614,
+        "avg_salary": 126614.0,
+        "max_salary": 126614
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 51110,
+        "avg_salary": 51110.0,
+        "max_salary": 51110
+    },
+    {
+        "_id": {
+            "city": "Душанбе",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 64139,
+        "avg_salary": 64139.0,
+        "max_salary": 64139
+    },
+    {
+        "_id": {
+            "city": "Астана",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 79355,
+        "avg_salary": 79355.0,
+        "max_salary": 79355
+    },
+    {
+        "_id": {
+            "city": "Рига",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 153664,
+        "avg_salary": 153664.0,
+        "max_salary": 153664
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "job": "Менеджер",
+            "age_range": "50-65"
+        },
+        "min_salary": 170825,
+        "avg_salary": 170825.0,
+        "max_salary": 170825
+    },
+    {
+        "_id": {
+            "city": "Алма-Ата",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 31203,
+        "avg_salary": 31203.0,
+        "max_salary": 31203
+    },
+    {
+        "_id": {
+            "city": "Ташкент",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 198270,
+        "avg_salary": 198270.0,
+        "max_salary": 198270
+    },
+    {
+        "_id": {
+            "city": "Луго",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 101695,
+        "avg_salary": 101695.0,
+        "max_salary": 101695
+    },
+    {
+        "_id": {
+            "city": "Рига",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 138171,
+        "avg_salary": 138171.0,
+        "max_salary": 138171
+    },
+    {
+        "_id": {
+            "city": "Вильнюс",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 59335,
+        "avg_salary": 85120.0,
+        "max_salary": 110905
+    },
+    {
+        "_id": {
+            "city": "Душанбе",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 90950,
+        "avg_salary": 90950.0,
+        "max_salary": 90950
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 114357,
+        "avg_salary": 114357.0,
+        "max_salary": 114357
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 192758,
+        "avg_salary": 193568.5,
+        "max_salary": 194379
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "job": "Повар",
+            "age_range": "18-25"
+        },
+        "min_salary": 106388,
+        "avg_salary": 106388.0,
+        "max_salary": 106388
+    },
+    {
+        "_id": {
+            "city": "Гранада",
+            "job": "Медсестра",
+            "age_range": "18-25"
+        },
+        "min_salary": 128169,
+        "avg_salary": 128169.0,
+        "max_salary": 128169
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 49590,
+        "avg_salary": 49590.0,
+        "max_salary": 49590
+    },
+    {
+        "_id": {
+            "city": "Куэнка",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 117717,
+        "avg_salary": 117717.0,
+        "max_salary": 117717
+    },
+    {
+        "_id": {
+            "city": "Сан-Себастьян",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 86975,
+        "avg_salary": 90122.5,
+        "max_salary": 93270
+    },
+    {
+        "_id": {
+            "city": "Любляна",
+            "job": "Повар",
+            "age_range": "18-25"
+        },
+        "min_salary": 190900,
+        "avg_salary": 190900.0,
+        "max_salary": 190900
+    },
+    {
+        "_id": {
+            "city": "Картахена",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 78466,
+        "avg_salary": 78466.0,
+        "max_salary": 78466
+    },
+    {
+        "_id": {
+            "city": "Хихон",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 162083,
+        "avg_salary": 162083.0,
+        "max_salary": 162083
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 176449,
+        "avg_salary": 176449.0,
+        "max_salary": 176449
+    },
+    {
+        "_id": {
+            "city": "Камбадос",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 106909,
+        "avg_salary": 106909.0,
+        "max_salary": 106909
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "job": "Менеджер",
+            "age_range": "18-25"
+        },
+        "min_salary": 122060,
+        "avg_salary": 122060.0,
+        "max_salary": 122060
+    },
+    {
+        "_id": {
+            "city": "Картахена",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 84598,
+        "avg_salary": 84598.0,
+        "max_salary": 84598
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 126393,
+        "avg_salary": 126393.0,
+        "max_salary": 126393
+    },
+    {
+        "_id": {
+            "city": "Тарраса",
+            "job": "Менеджер",
+            "age_range": "18-25"
+        },
+        "min_salary": 45355,
+        "avg_salary": 45355.0,
+        "max_salary": 45355
+    },
+    {
+        "_id": {
+            "city": "Москва",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 193025,
+        "avg_salary": 193025.0,
+        "max_salary": 193025
+    },
+    {
+        "_id": {
+            "city": "София",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 80104,
+        "avg_salary": 80104.0,
+        "max_salary": 80104
+    },
+    {
+        "_id": {
+            "city": "Сьюдад-Реаль",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 100931,
+        "avg_salary": 100931.0,
+        "max_salary": 100931
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "job": "Медсестра",
+            "age_range": "18-25"
+        },
+        "min_salary": 81804,
+        "avg_salary": 81804.0,
+        "max_salary": 81804
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 170178,
+        "avg_salary": 170178.0,
+        "max_salary": 170178
+    },
+    {
+        "_id": {
+            "city": "Барселона",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 175582,
+        "avg_salary": 175582.0,
+        "max_salary": 175582
+    },
+    {
+        "_id": {
+            "city": "Кордова",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 44873,
+        "avg_salary": 44873.0,
+        "max_salary": 44873
+    },
+    {
+        "_id": {
+            "city": "Мадрид",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 194919,
+        "avg_salary": 194919.0,
+        "max_salary": 194919
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 39102,
+        "avg_salary": 39102.0,
+        "max_salary": 39102
+    },
+    {
+        "_id": {
+            "city": "Тбилиси",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 46287,
+        "avg_salary": 46287.0,
+        "max_salary": 46287
+    },
+    {
+        "_id": {
+            "city": "Вальядолид",
+            "job": "Повар",
+            "age_range": "18-25"
+        },
+        "min_salary": 178997,
+        "avg_salary": 178997.0,
+        "max_salary": 178997
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Продавец",
+            "age_range": "18-25"
+        },
+        "min_salary": 157343,
+        "avg_salary": 157343.0,
+        "max_salary": 157343
+    },
+    {
+        "_id": {
+            "city": "Авилес",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 71885,
+        "avg_salary": 71885.0,
+        "max_salary": 71885
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 153420,
+        "avg_salary": 153420.0,
+        "max_salary": 153420
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 46229,
+        "avg_salary": 46229.0,
+        "max_salary": 46229
+    },
+    {
+        "_id": {
+            "city": "Картахена",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 163612,
+        "avg_salary": 163612.0,
+        "max_salary": 163612
+    },
+    {
+        "_id": {
+            "city": "Кадакес",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 192395,
+        "avg_salary": 192395.0,
+        "max_salary": 192395
+    },
+    {
+        "_id": {
+            "city": "Скопье",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 94468,
+        "avg_salary": 94468.0,
+        "max_salary": 94468
+    },
+    {
+        "_id": {
+            "city": "Тбилиси",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 29477,
+        "avg_salary": 29477.0,
+        "max_salary": 29477
+    },
+    {
+        "_id": {
+            "city": "Монсон",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 71618,
+        "avg_salary": 71618.0,
+        "max_salary": 71618
+    },
+    {
+        "_id": {
+            "city": "Барселона",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 154660,
+        "avg_salary": 154660.0,
+        "max_salary": 154660
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 128401,
+        "avg_salary": 128401.0,
+        "max_salary": 128401
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 67714,
+        "avg_salary": 67714.0,
+        "max_salary": 67714
+    },
+    {
+        "_id": {
+            "city": "Бланес",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 120398,
+        "avg_salary": 120398.0,
+        "max_salary": 120398
+    },
+    {
+        "_id": {
+            "city": "Семана",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 161289,
+        "avg_salary": 161289.0,
+        "max_salary": 161289
+    },
+    {
+        "_id": {
+            "city": "Прага",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 155328,
+        "avg_salary": 155328.0,
+        "max_salary": 155328
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 77195,
+        "avg_salary": 77195.0,
+        "max_salary": 77195
+    },
+    {
+        "_id": {
+            "city": "Касерес",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 61602,
+        "avg_salary": 61602.0,
+        "max_salary": 61602
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 132004,
+        "avg_salary": 132004.0,
+        "max_salary": 132004
+    },
+    {
+        "_id": {
+            "city": "Хельсинки",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 51414,
+        "avg_salary": 51414.0,
+        "max_salary": 51414
+    },
+    {
+        "_id": {
+            "city": "Навалькарнеро",
+            "job": "Бухгалтер",
+            "age_range": "18-25"
+        },
+        "min_salary": 98009,
+        "avg_salary": 143944.5,
+        "max_salary": 189880
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "Строитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 124903,
+        "avg_salary": 124903.0,
+        "max_salary": 124903
+    },
+    {
+        "_id": {
+            "city": "Афины",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 34986,
+        "avg_salary": 56211.0,
+        "max_salary": 77436
+    },
+    {
+        "_id": {
+            "city": "Эль-Пуэрто-де-Санта-Мария",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 76124,
+        "avg_salary": 76124.0,
+        "max_salary": 76124
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 66576,
+        "avg_salary": 66576.0,
+        "max_salary": 66576
+    },
+    {
+        "_id": {
+            "city": "Загреб",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 89758,
+        "avg_salary": 89758.0,
+        "max_salary": 89758
+    },
+    {
+        "_id": {
+            "city": "Валенсия",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 23288,
+        "avg_salary": 23288.0,
+        "max_salary": 23288
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 97877,
+        "avg_salary": 97877.0,
+        "max_salary": 97877
+    },
+    {
+        "_id": {
+            "city": "Авилес",
+            "job": "Повар",
+            "age_range": "18-25"
+        },
+        "min_salary": 46688,
+        "avg_salary": 46688.0,
+        "max_salary": 46688
+    },
+    {
+        "_id": {
+            "city": "Луарка",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 146914,
+        "avg_salary": 146914.0,
+        "max_salary": 146914
+    },
+    {
+        "_id": {
+            "city": "Льейда",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 85321,
+        "avg_salary": 85321.0,
+        "max_salary": 85321
+    },
+    {
+        "_id": {
+            "city": "Загреб",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 37725,
+        "avg_salary": 37725.0,
+        "max_salary": 37725
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 83353,
+        "avg_salary": 132454.5,
+        "max_salary": 181556
+    },
+    {
+        "_id": {
+            "city": "Сантьяго-де-Компостела",
+            "job": "Инженер",
+            "age_range": "50-65"
+        },
+        "min_salary": 170496,
+        "avg_salary": 170496.0,
+        "max_salary": 170496
+    },
+    {
+        "_id": {
+            "city": "Любляна",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 177485,
+        "avg_salary": 177485.0,
+        "max_salary": 177485
+    },
+    {
+        "_id": {
+            "city": "Семана",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 53788,
+        "avg_salary": 53788.0,
+        "max_salary": 53788
+    },
+    {
+        "_id": {
+            "city": "Семана",
+            "job": "Инженер",
+            "age_range": "18-25"
+        },
+        "min_salary": 55351,
+        "avg_salary": 55351.0,
+        "max_salary": 55351
+    },
+    {
+        "_id": {
+            "city": "Краков",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 101669,
+        "avg_salary": 101669.0,
+        "max_salary": 101669
+    },
+    {
+        "_id": {
+            "city": "Сьюдад-Реаль",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 104270,
+        "avg_salary": 104270.0,
+        "max_salary": 104270
+    },
+    {
+        "_id": {
+            "city": "Тудела",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 20806,
+        "avg_salary": 21125.5,
+        "max_salary": 21445
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 64383,
+        "avg_salary": 64383.0,
+        "max_salary": 64383
+    },
+    {
+        "_id": {
+            "city": "Душанбе",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 166745,
+        "avg_salary": 166745.0,
+        "max_salary": 166745
+    },
+    {
+        "_id": {
+            "city": "Семана",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 59531,
+        "avg_salary": 59531.0,
+        "max_salary": 59531
+    },
+    {
+        "_id": {
+            "city": "Эльче",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 86542,
+        "avg_salary": 86542.0,
+        "max_salary": 86542
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 122904,
+        "avg_salary": 122904.0,
+        "max_salary": 122904
+    },
+    {
+        "_id": {
+            "city": "Касерес",
+            "job": "Косметолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 160033,
+        "avg_salary": 160033.0,
+        "max_salary": 160033
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Врач",
+            "age_range": "50-65"
+        },
+        "min_salary": 31279,
+        "avg_salary": 31279.0,
+        "max_salary": 31279
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 56674,
+        "avg_salary": 85059.0,
+        "max_salary": 113444
+    },
+    {
+        "_id": {
+            "city": "Авилес",
+            "job": "Инженер",
+            "age_range": "18-25"
+        },
+        "min_salary": 31753,
+        "avg_salary": 31753.0,
+        "max_salary": 31753
+    },
+    {
+        "_id": {
+            "city": "Варшава",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 134136,
+        "avg_salary": 134136.0,
+        "max_salary": 134136
+    },
+    {
+        "_id": {
+            "city": "Тудела",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 80401,
+        "avg_salary": 80401.0,
+        "max_salary": 80401
+    },
+    {
+        "_id": {
+            "city": "Вильявисиоса",
+            "job": "Психолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 78507,
+        "avg_salary": 78507.0,
+        "max_salary": 78507
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 57058,
+        "avg_salary": 81958.5,
+        "max_salary": 106859
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 126345,
+        "avg_salary": 156568.0,
+        "max_salary": 186791
+    },
+    {
+        "_id": {
+            "city": "Хихон",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 174472,
+        "avg_salary": 174472.0,
+        "max_salary": 174472
+    },
+    {
+        "_id": {
+            "city": "Луарка",
+            "job": "Косметолог",
+            "age_range": "18-25"
+        },
+        "min_salary": 140324,
+        "avg_salary": 140324.0,
+        "max_salary": 140324
+    },
+    {
+        "_id": {
+            "city": "Сьюдад-Реаль",
+            "job": "Продавец",
+            "age_range": "50-65"
+        },
+        "min_salary": 85427,
+        "avg_salary": 85427.0,
+        "max_salary": 85427
+    },
+    {
+        "_id": {
+            "city": "Прага",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 72546,
+        "avg_salary": 72546.0,
+        "max_salary": 72546
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "job": "Продавец",
+            "age_range": "18-25"
+        },
+        "min_salary": 62427,
+        "avg_salary": 122593.5,
+        "max_salary": 182760
+    },
+    {
+        "_id": {
+            "city": "Трухильо",
+            "job": "IT-специалист",
+            "age_range": "18-25"
+        },
+        "min_salary": 176403,
+        "avg_salary": 176403.0,
+        "max_salary": 176403
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 54738,
+        "avg_salary": 54738.0,
+        "max_salary": 54738
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 188581,
+        "avg_salary": 191252.0,
+        "max_salary": 193923
+    },
+    {
+        "_id": {
+            "city": "Пласенсия",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 138610,
+        "avg_salary": 138610.0,
+        "max_salary": 138610
+    },
+    {
+        "_id": {
+            "city": "Гранада",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 195293,
+        "avg_salary": 195293.0,
+        "max_salary": 195293
+    },
+    {
+        "_id": {
+            "city": "Санкт-Петербург",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 58476,
+        "avg_salary": 58476.0,
+        "max_salary": 58476
+    },
+    {
+        "_id": {
+            "city": "Сан-Себастьян",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 147061,
+        "avg_salary": 147061.0,
+        "max_salary": 147061
+    },
+    {
+        "_id": {
+            "city": "Махадаонда",
+            "job": "Врач",
+            "age_range": "18-25"
+        },
+        "min_salary": 161673,
+        "avg_salary": 161673.0,
+        "max_salary": 161673
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "Психолог",
+            "age_range": "50-65"
+        },
+        "min_salary": 162307,
+        "avg_salary": 162307.0,
+        "max_salary": 162307
+    },
+    {
+        "_id": {
+            "city": "Лас-Росас",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 136224,
+        "avg_salary": 137979.5,
+        "max_salary": 139735
+    },
+    {
+        "_id": {
+            "city": "Будапешт",
+            "job": "Повар",
+            "age_range": "18-25"
+        },
+        "min_salary": 165292,
+        "avg_salary": 165292.0,
+        "max_salary": 165292
+    },
+    {
+        "_id": {
+            "city": "Бургос",
+            "job": "Водитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 25886,
+        "avg_salary": 25886.0,
+        "max_salary": 25886
+    },
+    {
+        "_id": {
+            "city": "Виго",
+            "job": "Повар",
+            "age_range": "50-65"
+        },
+        "min_salary": 65580,
+        "avg_salary": 65580.0,
+        "max_salary": 65580
+    },
+    {
+        "_id": {
+            "city": "Куэнка",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 177159,
+        "avg_salary": 177159.0,
+        "max_salary": 177159
+    },
+    {
+        "_id": {
+            "city": "София",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 71940,
+        "avg_salary": 71940.0,
+        "max_salary": 71940
+    },
+    {
+        "_id": {
+            "city": "Фигерас",
+            "job": "Оператор call-центра",
+            "age_range": "50-65"
+        },
+        "min_salary": 191848,
+        "avg_salary": 191848.0,
+        "max_salary": 191848
+    },
+    {
+        "_id": {
+            "city": "Бишкек",
+            "job": "Программист",
+            "age_range": "50-65"
+        },
+        "min_salary": 164828,
+        "avg_salary": 164828.0,
+        "max_salary": 164828
+    },
+    {
+        "_id": {
+            "city": "Луго",
+            "job": "Бухгалтер",
+            "age_range": "50-65"
+        },
+        "min_salary": 82251,
+        "avg_salary": 82251.0,
+        "max_salary": 82251
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 103418,
+        "avg_salary": 131364.0,
+        "max_salary": 159310
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Учитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 146198,
+        "avg_salary": 169864.5,
+        "max_salary": 193531
+    },
+    {
+        "_id": {
+            "city": "Осера",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 46671,
+        "avg_salary": 59063.0,
+        "max_salary": 71455
+    },
+    {
+        "_id": {
+            "city": "Сеговия",
+            "job": "Врач",
+            "age_range": "18-25"
+        },
+        "min_salary": 77801,
+        "avg_salary": 77801.0,
+        "max_salary": 77801
+    },
+    {
+        "_id": {
+            "city": "Артейхо",
+            "job": "Продавец",
+            "age_range": "18-25"
+        },
+        "min_salary": 151770,
+        "avg_salary": 151770.0,
+        "max_salary": 151770
+    },
+    {
+        "_id": {
+            "city": "Мурсия",
+            "job": "Менеджер",
+            "age_range": "18-25"
+        },
+        "min_salary": 40961,
+        "avg_salary": 97478.33333333333,
+        "max_salary": 126895
+    },
+    {
+        "_id": {
+            "city": "Малага",
+            "job": "Водитель",
+            "age_range": "18-25"
+        },
+        "min_salary": 98098,
+        "avg_salary": 141669.5,
+        "max_salary": 185241
+    },
+    {
+        "_id": {
+            "city": "Аликанте",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 28547,
+        "avg_salary": 28547.0,
+        "max_salary": 28547
+    },
+    {
+        "_id": {
+            "city": "Монсон",
+            "job": "Медсестра",
+            "age_range": "50-65"
+        },
+        "min_salary": 77222,
+        "avg_salary": 77222.0,
+        "max_salary": 77222
+    },
+    {
+        "_id": {
+            "city": "Минск",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 155875,
+        "avg_salary": 155875.0,
+        "max_salary": 155875
+    },
+    {
+        "_id": {
+            "city": "Фигерас",
+            "job": "Архитектор",
+            "age_range": "50-65"
+        },
+        "min_salary": 78231,
+        "avg_salary": 78231.0,
+        "max_salary": 78231
+    },
+    {
+        "_id": {
+            "city": "Любляна",
+            "job": "Медсестра",
+            "age_range": "18-25"
+        },
+        "min_salary": 43108,
+        "avg_salary": 43108.0,
+        "max_salary": 43108
+    },
+    {
+        "_id": {
+            "city": "Санкт-Петербург",
+            "job": "Оператор call-центра",
+            "age_range": "18-25"
+        },
+        "min_salary": 34926,
+        "avg_salary": 34926.0,
+        "max_salary": 34926
+    },
+    {
+        "_id": {
+            "city": "Санхенхо",
+            "job": "Программист",
+            "age_range": "18-25"
+        },
+        "min_salary": 163624,
+        "avg_salary": 163624.0,
+        "max_salary": 163624
+    },
+    {
+        "_id": {
+            "city": "Мартоса",
+            "job": "Строитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 129890,
+        "avg_salary": 129890.0,
+        "max_salary": 129890
+    },
+    {
+        "_id": {
+            "city": "Куэнка",
+            "job": "IT-специалист",
+            "age_range": "50-65"
+        },
+        "min_salary": 31399,
+        "avg_salary": 31399.0,
+        "max_salary": 31399
+    },
+    {
+        "_id": {
+            "city": "Самора",
+            "job": "Учитель",
+            "age_range": "50-65"
+        },
+        "min_salary": 111964,
+        "avg_salary": 111964.0,
+        "max_salary": 111964
+    }
+]
