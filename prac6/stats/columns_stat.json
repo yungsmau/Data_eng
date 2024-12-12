@@ -1,0 +1,170 @@
+[
+    {
+        "column": "velocity_last_hour",
+        "memory_kb": 201869.54,
+        "mem_percentage": 16.27,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "device_fingerprint",
+        "memory_kb": 86914.06,
+        "mem_percentage": 7.0,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "timestamp",
+        "memory_kb": 86914.04,
+        "mem_percentage": 7.0,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "ip_address",
+        "memory_kb": 68641.08,
+        "mem_percentage": 5.53,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "card_type",
+        "memory_kb": 67795.32,
+        "mem_percentage": 5.46,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "city",
+        "memory_kb": 67162.58,
+        "mem_percentage": 5.41,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "transaction_id",
+        "memory_kb": 66406.25,
+        "mem_percentage": 5.35,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "customer_id",
+        "memory_kb": 65429.69,
+        "mem_percentage": 5.27,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "merchant",
+        "memory_kb": 64809.46,
+        "mem_percentage": 5.22,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "merchant_category",
+        "memory_kb": 63474.5,
+        "mem_percentage": 5.12,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "device",
+        "memory_kb": 62804.47,
+        "mem_percentage": 5.06,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "merchant_type",
+        "memory_kb": 62417.21,
+        "mem_percentage": 5.03,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "country",
+        "memory_kb": 61585.54,
+        "mem_percentage": 4.96,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "city_size",
+        "memory_kb": 61497.65,
+        "mem_percentage": 4.96,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "channel",
+        "memory_kb": 59475.74,
+        "mem_percentage": 4.79,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "currency",
+        "memory_kb": 58593.75,
+        "mem_percentage": 4.72,
+        "col_type": "object",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "card_number",
+        "memory_kb": 7812.5,
+        "mem_percentage": 0.63,
+        "col_type": "int64",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "amount",
+        "memory_kb": 7812.5,
+        "mem_percentage": 0.63,
+        "col_type": "float64",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "distance_from_home",
+        "memory_kb": 7812.5,
+        "mem_percentage": 0.63,
+        "col_type": "int64",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "transaction_hour",
+        "memory_kb": 7812.5,
+        "mem_percentage": 0.63,
+        "col_type": "int64",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "card_present",
+        "memory_kb": 976.56,
+        "mem_percentage": 0.08,
+        "col_type": "bool",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "high_risk_merchant",
+        "memory_kb": 976.56,
+        "mem_percentage": 0.08,
+        "col_type": "bool",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "weekend_transaction",
+        "memory_kb": 976.56,
+        "mem_percentage": 0.08,
+        "col_type": "bool",
+        "note": "Statistics w/o optimization"
+    },
+    {
+        "column": "is_fraud",
+        "memory_kb": 976.56,
+        "mem_percentage": 0.08,
+        "col_type": "bool",
+        "note": "Statistics w/o optimization"
+    }
+]
