@@ -21,8 +21,9 @@ with open("01/query_results/sorted_salary.json", "w", encoding="utf-8") as f:
 
 # 2. Первые 15 записей, отфильтрованных по предикату age  <  30, отсортировать по убыванию по полю salary
 def sort_salary_by_age(collection):
+    query_filter = {"age": {"$lt": 30}}
     sort_field = [("salary", -1)]
-    result = list(collection.find({}, {"_id": 0}).sort(sort_field).limit(15))
+    result = list(collection.find(query_filter, {"_id": 0}).sort(sort_field).limit(15))
 
     return result
 
